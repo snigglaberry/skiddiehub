@@ -1,3 +1,4 @@
+# skiddie hub
 GAMES:
 1. Adopt Me
 2. Apeirophobia
@@ -78,3 +79,8 @@ OTHERS:
 29. Yogurt Hub
 30. ZenX Beta (Paid)
 31. Owl Hub
+# skiddie aim
+aimbot (aim circle)
+trigger bot (auto shoot)
+esp (show through wall)
+anti-friendly-fire (doesnt aim or shoot people on the same team as you)
