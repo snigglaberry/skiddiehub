@@ -1,21 +1,4 @@
-local StarterGui = game:GetService("StarterGui")
-StarterGui:SetCore("SendNotification", {
-    Title = "wow 5$";
-    Text = "5$ (omg so rich) to anyone who makes a good ui (no librarys) join the discord for more info";
-    Duration = 5;
-})
-StarterGui:SetCore("SendNotification", {
-    Title = "Discord";
-    Text = "Click JOIN to copy the Discord link!";
-    Duration = 5;
-    Button1 = "JOIN";
-    Callback = function()
-        if setclipboard then
-            setclipboard("https://discord.gg/M87GafGepW")
-        end
-    end
-})
-
+-- open source for you skids
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
 local UserInputService = game:GetService("UserInputService")
